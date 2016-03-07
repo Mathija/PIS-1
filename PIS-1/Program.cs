@@ -14,4 +14,12 @@ namespace PIS_1
             // Moj komentar bla bla
         }
     }
+    class NewClass
+    {
+                static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World");
+            // Moj komentar bla bla
+        }
+    }
 }
